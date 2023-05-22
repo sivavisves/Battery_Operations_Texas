@@ -10,6 +10,7 @@ To run this code, make sure you have the following dependencies installed:
 - [JuMP](https://github.com/jump-dev/JuMP.jl) package for mathematical optimization modeling
 - [Gurobi](https://www.gurobi.com/) solver for solving the optimization problem
 - [DataFrames](https://dataframes.juliadata.org/) package for handling tabular data
+- [CSV](https://csv.juliadata.org/) package for saving data into CSV files
 
 ## Usage
 
