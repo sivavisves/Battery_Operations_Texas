@@ -1,4 +1,4 @@
-#Battery Operations Optimization with CVaR (Conditional Value at Risk)
+# Battery Operations Optimization with CVaR (Conditional Value at Risk)
 
 This code provides a method to optimize battery operations with the consideration of risk averseness using Conditional Value at Risk (CVaR). The goal is to maximize profit while accounting for uncertain electricity prices in Texas.
 
